@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="ImagVco">
+    <file>imag_vco.png</file>
+    <file>imag_atenuador.PNG</file>
+    <file>imag_splitter.PNG</file>
+    <file>imag_ampRF.PNG</file>
+    <file>imag_antenaHorn.jpg</file>
+    <file>imag_filtro.png</file>
+    <file>imag_medio.jpg</file>
+    <file>imag_mixer.PNG</file>
+    <file>imag_procesador.jpg</file>
+    <file>imag_rcs.PNG</file>
+  </qresource>
+</RCC>

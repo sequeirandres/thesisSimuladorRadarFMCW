@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="imagatt">
+    <file>imag_atenuador.PNG</file>
+  </qresource>
+</RCC>
