@@ -1,6 +1,14 @@
-# ------------------------------------------------------
-# ---------------------- SimuladorRadarVer06.py ----------------
-# ------------------------------------------------------
+# ----------------------------------------------------------------------------
+# ----------------------------------------------------------------------------
+#
+#  Title: Simulador de un radar de onda continua
+#  Code :  SimuladorRadarFmcw.py  
+#  Author: Sequeria Andres
+#  gitHub: https://github.com/sequeirandres
+#  Repositorio: https://github.com/sequeirandres/thesisSimuladorRadarFMCW
+#
+# ---------------------------------------------------------------------------
+# ---------------------------------------------------------------------------
 from PyQt5.QtWidgets import*
 from PyQt5.QtWidgets import QMessageBox
 from PyQt5.uic import loadUi
