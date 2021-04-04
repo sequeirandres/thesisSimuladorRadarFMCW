@@ -1,3 +1,15 @@
+# ----------------------------------------------------------------------------
+# ----------------------------------------------------------------------------
+#
+#  Title: Configuraciones para el Simulador Radar fmcw
+#  Code :  RadarConfiguration.py  
+#  Author: Sequeria Andres
+#  gitHub: https://github.com/sequeirandres
+#  Repositorio: https://github.com/sequeirandres/thesisSimuladorRadarFMCW
+#
+# ---------------------------------------------------------------------------
+# ---------------------------------------------------------------------------
+
 from PyQt5.QtWidgets import*
 from PyQt5.QtWidgets import QMessageBox
 from PyQt5.uic import loadUi
