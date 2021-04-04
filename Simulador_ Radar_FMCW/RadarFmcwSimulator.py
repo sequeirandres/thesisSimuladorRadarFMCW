@@ -3,7 +3,7 @@
 #
 #  Title: Simulador de un radar de onda continua
 #  Code :  SimuladorRadarFmcw.py  
-#  Author: Sequeria Andres
+#  Author: Sequeira Andres
 #  gitHub: https://github.com/sequeirandres
 #  Repositorio: https://github.com/sequeirandres/thesisSimuladorRadarFMCW
 #
