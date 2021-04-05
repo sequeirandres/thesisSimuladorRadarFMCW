@@ -2,5 +2,5 @@
 
 ## Interfaz del simulador 
 <p align="center">
-  <img src="imag/simulador_radar_imag_00.jpg">
+  <img src="Simulador_ Radar_FMCW/imag/simulador_radar_imag_00.jpg">
 </p>
